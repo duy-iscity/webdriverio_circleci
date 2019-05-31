@@ -15,4 +15,4 @@ npm test wdio.conf.js
 ```
 
 ## CircleCI
-https://circleci.com/gh/theduykh/webdriverio/tree/master
+https://circleci.com/gh/duy-iscity/webdriverio_circleci/tree/master
